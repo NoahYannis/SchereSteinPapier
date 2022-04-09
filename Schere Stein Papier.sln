@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Schere Stein Papier", "Schere Stein Papier\Schere Stein Papier.csproj", "{B0FA1D48-E112-4ABE-AB55-A182FA46B1EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0FA1D48-E112-4ABE-AB55-A182FA46B1EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0FA1D48-E112-4ABE-AB55-A182FA46B1EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0FA1D48-E112-4ABE-AB55-A182FA46B1EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0FA1D48-E112-4ABE-AB55-A182FA46B1EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5E99E05-E73A-4C79-A49F-E823A794C317}
+	EndGlobalSection
+EndGlobal
